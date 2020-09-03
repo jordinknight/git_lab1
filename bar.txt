@@ -1,0 +1,2 @@
+bar1 = "Hello"
+print(bar1)
